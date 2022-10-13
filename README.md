@@ -1,3 +1,3 @@
 # MartaUp
 
-Deploy: https://smu25.github.io/MartaUp/#
+Deployed: [MartaUp](https://smu25.github.io/MartaUp/)
